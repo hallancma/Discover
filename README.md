@@ -7,6 +7,9 @@ Olá, tudo bem?
 Neste curso da Rocketseat, trabalhei com as tecnologias HTML, CSS e JavaScript, conhecendo os fundamentos da programação e descobrindo as possibilidades desse universo junto a uma comunidade de milhares de devs 🚀.
 
 ## Projeto: Site Agrupador de Links
+[![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+[![CSS Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 Este curso é composto por um total de 06 módulos, totalizando 5 horas de curso.
 
